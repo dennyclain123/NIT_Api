@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Linux System Administration",
+    "img": "https://thewincentral.com/wp-content/uploads/2018/10/Linux.jpg",
+    "videos": [
+      {
+        "name": "Linux File Structure",
+        "duration": "15:45",
+        "image": "https://thewincentral.com/wp-content/uploads/2018/10/Linux.jpg",
+        "url": "https://www.youtube.com/watch?v=-1gylSRA0qY"
+      }
+    ]
+  },
+  {
+    "category": "Networking",
+    "img": "https://tophat.network/wp-content/uploads/2020/08/Network-facts.png",
+    "videos": [
+      {
+        "name": "What's a Network",
+        "duration": "8:48",
+        "image": "https://tophat.network/wp-content/uploads/2020/08/Network-facts.png",
+        "url": "https://www.youtube.com/watch?v=ARrS7LJC0do&t=34s"
+      }
+    ]
+  }
+]
