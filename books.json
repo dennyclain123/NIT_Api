@@ -4,5 +4,11 @@
         "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ လက်ရှိမှာ အနောက်နိုင်ငံတွေမှာ တင်သာမက အာရှတိုက်ကတချို့ companyကြီးတွေတော်တော်များများသုံးလာကြတဲ့ Software Defined Networking (SDN)ရဲ့ အလုပ်လုပ်ပုံတွေအကြောင်း တင်ပေးချင်ပါတယ်။",
         "image":"https://1.bp.blogspot.com/-UCnTSuFiRJ8/XuZNsc3ZCAI/AAAAAAAAA0M/88O4aXynPJoxlEdUS95DyVV2ZMR_vbxPgCK4BGAsYHg/s1200/84103644_192648378810661_4773760646611206144_o.jpg",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdwan.pdf"
+      },
+{
+        "name":"Windows Server",
+        "description": "ကျနော်တို့ Hyper-V ထဲမှာwindowsserverတင်ပြီး lab စမ်းချင်တာဖြစ်ဖြစ် ဒါမှမဟုတ် Dell serverတို့Hpserverတို့လိုhardware server ကြီးတွေဝယ်ပြီးလည်းအာ့RAT serverတွေမှာwindows server 2016ဖြစ်ဖြစ် 2012R2 ပဲဖြစ်ဖြစ်တင်လို့ရတယ်ပေါ့နော်၊အခုနောက်ဆုံးထွက်တဲ့versionကတော့windows server 2019 ဖြစ်ပြီးသူကတော့Technical Preview လောက်ပဲရှိပါသေးတယ်ဗျ၊အာ့တော့အဓိကကတော့ဗျာ၊ windows serverဘက်ကိုသွားချင်တယ်ဆိုရင်တော့ဒီအချက်လေးတွေတော့သိထားဖို့လိုပါလိမ့်မယ်။ဒါကလည်းကျနော်ဖတ်ထားမှတ်ထားသမျှsharing လုပ်ပေးတာဖြစ်ပါတယ်။",
+        "image":"http://www.clker.com/cliparts/g/E/w/q/c/q/windows-server-hi.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Windows%20Server%20Notes.pdf"
       }
 ]
