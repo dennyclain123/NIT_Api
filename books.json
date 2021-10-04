@@ -14,13 +14,13 @@
 {
         "name":"Ansible part 1,2",
         "description": "Ansible ကို 2017 မှာ develop လုပ်ခဲ့ပြီး ကျနော်တို့network enginnerများအတွက်အချိန်ကုန်လူပင်ပန်းသက်သာပြီးnetwork deviceပေါင်းများစွာကိုscript fileလေးတခုရေးလိုက်တာနဲ့တင်automaticconfigurationနဲ့reporting ပြုလုပ်လို့ရပါတယ်",
-        "image":"https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible-logo-png-transparent.png",
+        "image":"https://www.mbejda.com/content/images/2016/01/ans.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%201%20and%202.pdf"
       },
 {
         "name":"Ansible part 3",
         "description": "ကျနော်တို့ ansible ရဲ့ အရေးပါပုံနဲ့အသုံးပြုပုံတွေကို part-1နဲ့part-2မှာတင်ပေးခဲ့ပြီးဖြစ်ပါတယ်။ အခုpart-3မှာတော့ ansibleကိုအသုံးပြုပြီး lab configuration တစ်ခုပြုလုပ်သွားမှာဖြစ်ပါတယ်။",
-        "image":"https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible-logo-png-transparent.png",
+        "image":"https://www.mbejda.com/content/images/2016/01/ans.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%203.pdf"
       }
 ]
