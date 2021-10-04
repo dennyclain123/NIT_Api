@@ -14,13 +14,13 @@
 {
         "name":"Ansible part 1,2",
         "description": "Ansible ကို 2017 မှာ develop လုပ်ခဲ့ပြီး ကျနော်တို့network enginnerများအတွက်အချိန်ကုန်လူပင်ပန်းသက်သာပြီးnetwork deviceပေါင်းများစွာကိုscript fileလေးတခုရေးလိုက်တာနဲ့တင်automaticconfigurationနဲ့reporting ပြုလုပ်လို့ရပါတယ်",
-        "image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/p480x480/97066680_263908911684607_6732051041056980992_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=OVwbNvrFPUEAX9qhMvF&_nc_ht=scontent-iad3-1.xx&oh=0c91502b7432f2bf0308c911e6ce549c&oe=617EE1A7",
+        "image":"https://cdn.freebiesupply.com/logos/large/2x/ansible-logo-png-transparent.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%201%20and%202.pdf"
       },
 {
         "name":"Ansible part 3",
         "description": "Ansible ကို 2017 မှာ develop လုပ်ခဲ့ပြီး ကျနော်တို့network enginnerများအတွက်အချိန်ကုန်လူပင်ပန်းသက်သာပြီးnetwork deviceပေါင်းများစွာကိုscript fileလေးတခုရေးလိုက်တာနဲ့တင်automaticconfigurationနဲ့reporting ပြုလုပ်လို့ရပါတယ်",
-        "image":"https://www.fusionlayer.com/uploads/news/ansible.png",
+        "image":"https://cdn.freebiesupply.com/logos/large/2x/ansible-logo-png-transparent.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%203.pdf"
       }
 ]
