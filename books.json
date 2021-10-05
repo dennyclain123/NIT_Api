@@ -1,6 +1,6 @@
 [
 {
-        "name":"SD-WAN",
+        "name":"SDN",
         "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ လက်ရှိမှာ အနောက်နိုင်ငံတွေမှာ တင်သာမက အာရှတိုက်ကတချို့ companyကြီးတွေတော်တော်များများသုံးလာကြတဲ့ Software Defined Networking (SDN)ရဲ့ အလုပ်လုပ်ပုံတွေအကြောင်း တင်ပေးချင်ပါတယ်။",
         "image":"https://1.bp.blogspot.com/-UCnTSuFiRJ8/XuZNsc3ZCAI/AAAAAAAAA0M/88O4aXynPJoxlEdUS95DyVV2ZMR_vbxPgCK4BGAsYHg/s1200/84103644_192648378810661_4773760646611206144_o.jpg",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdwan.pdf"
