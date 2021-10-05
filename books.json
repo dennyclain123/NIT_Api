@@ -40,6 +40,11 @@
         "description": " IOT ကတော့ ကျနော်တို့ home automation လိုနေရာမျိုးတွေ၊ ပြီးတော့ စောစောကလို စိုက်ပျိုးရေးလုပ်ငန်းတွေအပြင် နေရာတော်တော်များများမှာ အခုလက်ရှိကြုံတွေ့နေကြ ပြသနာတွေ ကို ဖြေရှင်းပေးနိုင်မယ့် နေရာမျိုးတွေမှာ အသုံးပြုကြပါတယ်။",
         "image":"https://www.e-zigurat.com/innovation-school/wp-content/uploads/sites/5/2019/03/20190326-iot-in-five-years2-1.jpg",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/IOT.pdf"
+      },
+{
+        "name":"SELinux",
+        "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
+        "image":"https://e-tinet.com/wp-content/uploads/2018/10/SELinux-seguranca-no-linux-1024x512.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
       }
-
 ]
