@@ -64,5 +64,29 @@
         "description": " Fiber Optic Cable ကNetwork တွေမှာပုံမှန် သုံးနေကျ Copper Wire(UTP,STP,Coaxial)တို့နဲ့မတူပဲ Data ကို electric signal မဟုတ်ပဲ light ကိုအသုံးပြုပြီး Data Transmit လုပ်သောကြောင့်ဖြစ်တယ်။",
         "image":"https://www.pngkey.com/png/detail/409-4097928_fiber-png-fibre-optic-cable-png.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/fiber.pdf"
+      },
+{
+        "name":"Characteristic of Network",
+        "description": "ဒီနေ့ကျွန်တော် ပြောပြသွားမှာကတော့ ကျွန်တော့်မနေ့ ကပြောပြသွားတဲ့ Basic Networking Concept ရဲ့ အချက် (၆)ချက်ထဲက တစ်ချက်ဖြစ်တဲ့ Characteristic of a Network အကြောင်းကို Part (1) Part (2)ခွဲပြီးပြောပြသွားမည်ဖြစ်ပါတယ်။",
+        "image":"https://www.networkstraining.com/wp-content/uploads/2018/11/types-of-networks.jpg",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Characteristic%20of%20Network.pdf"
+      },
+{
+        "name":"Network Topologies",
+        "description": "ဒီနေ့ကျွန်တော် ပြောပြသွားမှာကတော့ ကျွန်တော်မနေ့ ကပြောပြသွားတဲ့ Basic Networking Concept ရဲ့ အချက် (၆)ချက်ထဲက နောက်တစ်ချက် တစ်ချက်ဖြစ်တဲ့ Network Topologies တွေအကြောင်း ကို ကျွန်တော် Part 1,Part 2,Part 3 ဆိုပြီးခွဲတင်ပေးပါမယ်နော်။",
+        "image":"https://systemzone.net/wp-content/uploads/2017/09/network-topology.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/topology.pdf"
+      },
+{
+        "name":"OSI 7 Layers",
+        "description": "OSI 7 Layers ကို မတူညီသောNetwork Vendors တွေ Connections ရစေရန် ISO မှ သတ်မှတ် ပေးခဲ့ပါသည်။ OSI 7 Layers မပေါ်ပေါက်ခင်ကမတူညီသော Network Vendors တွေချိတ်ဆက်လို့ မရခဲ့ပါ။ အခု မတူညီသော OS များ၊ မတူညီသောNetwork Technology တွေ Communicationsယူလို့ရနေချင်း မှာ OSI 7 Layers ရဲ့အကျိုး ကျေးဇူးတွေကြောင့် ဖြစ်ပါတယ်။ OSI 7 Layers အကြောင်းစတင်ပြီး လေ့လာလိုက်ရအောင်ဗျာ",
+        "image":"https://forum.huawei.com/enterprise/en/data/attachment/forum/201912/14/210851ln4wzcwhc7chgkba.jpg?osimodel-100743439-large.jpg",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/OSI.pdf"
+      },
+{
+        "name":"NFV",
+        "description": "အခုတခေါက်ကျနော်တို့ တင်ပေးသွားမယ့်အကြောင်းအရာကတော့ အခုလက်ရှိမှာ Telecom Company တွေအတော်များများသုံးနေကြပြီဖြစ်တဲ့ Network Function Virtualization ဆိုတဲ့ NFV အကြောင်းကိုတင်ပေးမှာဖြစ်ပါတယ်။",
+        "image":"https://www.p7networks.com/wp-content/uploads/2020/02/nfv.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/nfv.pdf"
       }
 ]
