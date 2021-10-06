@@ -22,5 +22,23 @@
         "url": "https://www.youtube.com/watch?v=ARrS7LJC0do&t=34s"
       }
     ]
+  },
+{
+    "category": "Cloud Computing",
+    "img": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
+    "videos": [
+      {
+        "name": "Migrating java project using Heroku CLI",
+        "duration": "7:44",
+        "image": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
+        "url": "https://www.youtube.com/watch?v=k2U6kRQAg8k"
+      },
+ {
+        "name": "Migrating PHP project using heroku cli with PostgreSQL database",
+        "duration": "12:48",
+        "image": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
+        "url": "https://www.youtube.com/watch?v=xonfnuo0zHs&t=648s"
+      }
+    ]
   }
 ]
