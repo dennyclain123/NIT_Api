@@ -50,7 +50,7 @@
 {
         "name":"Spanning Tree Protocol",
         "description": "Layer 2 Loop ဖြစ်တဲ့ ပြဿနာကို ဖြေရှင်းပေးတဲ့ Protocol ကို STP လို့ခေါ်တယ်။",
-        "image":"https://1.bp.blogspot.com/-c8X7frPQs3k/XuZMdz51WKI/AAAAAAAAAzY/5YQWlzIDpWULL9o-9wXExjHGN90dvbtsACK4BGAsYHg/s320/90362435_225654768843355_6750413593910444032_o.png",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Spanning_tree_protocol_at_work_5.svg/300px-Spanning_tree_protocol_at_work_5.svg.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/stp.pdf"
       },
 {
@@ -62,7 +62,7 @@
 {
         "name":"Fiber Optic Cable",
         "description": " Fiber Optic Cable ကNetwork တွေမှာပုံမှန် သုံးနေကျ Copper Wire(UTP,STP,Coaxial)တို့နဲ့မတူပဲ Data ကို electric signal မဟုတ်ပဲ light ကိုအသုံးပြုပြီး Data Transmit လုပ်သောကြောင့်ဖြစ်တယ်။",
-        "image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/123919815_411818843560279_4505274789034542102_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=qsOeBKVTjj0AX8C9ekw&_nc_ht=scontent-iad3-1.xx&oh=c24d9a8755449d501e320914c5c669cf&oe=6181C450",
+        "image":"https://www.pngkey.com/png/detail/409-4097928_fiber-png-fibre-optic-cable-png.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/fiber.pdf"
       }
 ]
