@@ -46,5 +46,23 @@
         "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
         "image":"https://e-tinet.com/wp-content/uploads/2018/10/SELinux-seguranca-no-linux-1024x512.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
+      },
+{
+        "name":"Spanning Tree Protocol",
+        "description": "Layer 2 Loop ဖြစ်တဲ့ ပြဿနာကို ဖြေရှင်းပေးတဲ့ Protocol ကို STP လို့ခေါ်တယ်။",
+        "image":"https://1.bp.blogspot.com/-c8X7frPQs3k/XuZMdz51WKI/AAAAAAAAAzY/5YQWlzIDpWULL9o-9wXExjHGN90dvbtsACK4BGAsYHg/s320/90362435_225654768843355_6750413593910444032_o.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/stp.pdf"
+      },
+{
+        "name":"EtherChannel",
+        "description": " Etherchannel ကို Link Aggregation ,Port Aggregation, Port Channel, NIC Teaming  လို့ခေါ်တယ်။",
+        "image":"https://networklessons.com/wp-content/uploads/2014/03/etherchannel-example-topology-two-links.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/etherchannel.pdf"
+      },
+{
+        "name":"Fiber Optic Cable",
+        "description": " Fiber Optic Cable ကNetwork တွေမှာပုံမှန် သုံးနေကျ Copper Wire(UTP,STP,Coaxial)တို့နဲ့မတူပဲ Data ကို electric signal မဟုတ်ပဲ light ကိုအသုံးပြုပြီး Data Transmit လုပ်သောကြောင့်ဖြစ်တယ်။",
+        "image":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/123919815_411818843560279_4505274789034542102_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=qsOeBKVTjj0AX8C9ekw&_nc_ht=scontent-iad3-1.xx&oh=c24d9a8755449d501e320914c5c669cf&oe=6181C450",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/fiber.pdf"
       }
 ]
