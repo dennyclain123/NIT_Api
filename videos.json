@@ -46,5 +46,17 @@
         "url": "https://www.youtube.com/watch?v=xonfnuo0zHs&t=648s"
       }
     ]
+  },
+{
+    "category": "Python Programming",
+    "img": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+    "videos": [
+      {
+        "name": "Introduction to Program and Programing",
+        "duration": "7:14",
+        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "url": "https://www.youtube.com/watch?v=6xIbQtKoqCs"
+      }
+    ]
   }
 ]
