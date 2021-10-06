@@ -8,6 +8,12 @@
         "duration": "15:45",
         "image": "https://freepngimg.com/download/penguin/71667-font-logo-brand-linux-penguin-free-photo-png.png",
         "url": "https://www.youtube.com/watch?v=-1gylSRA0qY"
+      },
+      {
+        "name": "Create Partition in Linux",
+        "duration": "18:36",
+        "image": "https://freepngimg.com/download/penguin/71667-font-logo-brand-linux-penguin-free-photo-png.png",
+        "url": "https://www.youtube.com/watch?v=3Ro7SM4Z9gw"
       }
     ]
   },
@@ -17,13 +23,13 @@
     "videos": [
       {
         "name": "What's a Network",
-        "duration": "8:48",
+        "duration": "8:49",
         "image": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
         "url": "https://www.youtube.com/watch?v=ARrS7LJC0do&t=34s"
       }
     ]
   },
-{
+  {
     "category": "Cloud Computing",
     "img": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
     "videos": [
@@ -33,7 +39,7 @@
         "image": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
         "url": "https://www.youtube.com/watch?v=k2U6kRQAg8k"
       },
- {
+      {
         "name": "Migrating PHP project using heroku cli with PostgreSQL database",
         "duration": "12:48",
         "image": "https://myintassociatestelecom.com/wp-content/uploads/2016/11/Cloud-computing.png",
