@@ -31,18 +31,18 @@
   },
   {
     "category": "Cloud Hosting",
-    "img": "https://www.nicepng.com/png/detail/409-4094951_cloud-hosting-png-pic-web-hosting.png",
+    "img": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
     "videos": [
       {
         "name": "Migrating java project using Heroku CLI",
         "duration": "7:44",
-        "image": "https://www.nicepng.com/png/detail/409-4094951_cloud-hosting-png-pic-web-hosting.png",
+        "image": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
         "url": "https://www.youtube.com/watch?v=k2U6kRQAg8k"
       },
       {
         "name": "Migrating PHP project using heroku cli with PostgreSQL database",
         "duration": "12:48",
-        "image": "https://www.nicepng.com/png/detail/409-4094951_cloud-hosting-png-pic-web-hosting.png",
+        "image": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
         "url": "https://www.youtube.com/watch?v=xonfnuo0zHs&t=648s"
       }
     ]
