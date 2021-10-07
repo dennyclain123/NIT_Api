@@ -58,5 +58,47 @@
         "url": "https://www.youtube.com/watch?v=6xIbQtKoqCs"
       }
     ]
+  },
+{
+    "category": "AWS Cloud Computing",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png",
+    "videos": [
+      {
+        "name": "Introduction to Cloud Computing",
+        "duration": "25:54",
+        "image": "https://www.fastmetrics.com/blog/wp-content/uploads/2014/10/cloud-computing-service-types-including-IoT-1024x706.png",
+        "url": "https://www.youtube.com/watch?v=VbSETEz4D64&t=656s"
+      },
+{
+        "name": "AWS Ec2 Instance",
+        "duration": "21:34",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1024px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png",
+        "url": "https://www.youtube.com/watch?v=mUwq-3lBxsU&t=138s"
+      },
+{
+        "name": "AWS Elastic IP",
+        "duration": "16:01",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/AWS_Simple_Icons_Compute_Amazon_EC2_Elastic_IP.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Elastic_IP.svg.png",
+        "url": "https://www.youtube.com/watch?v=u6_PHwt1nhg"
+      },
+{
+        "name": "AWS VPC",
+        "duration": "39:08",
+        "image": "https://freesvg.org/img/1553540795.png",
+        "url": "https://www.youtube.com/watch?v=w0b4Pvfyt7E&t=4s"
+      },
+{
+        "name": "AWS EBS",
+        "duration": "21:06",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AWS_Simple_Icons_Storage_Amazon_EBS.svg/1024px-AWS_Simple_Icons_Storage_Amazon_EBS.svg.png",
+        "url": "https://www.youtube.com/watch?v=4Rv4bYbf-CI"
+      },
+{
+        "name": "AWS ELB",
+        "duration": "22:10",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AWS_Simple_Icons_Networking_Amazon_Elastic_Load_Balancer.svg/1024px-AWS_Simple_Icons_Networking_Amazon_Elastic_Load_Balancer.svg.png",
+        "url": "https://www.youtube.com/watch?v=_Kr1UA9cmgY"
+      }
+    ]
   }
 ]
