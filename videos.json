@@ -100,5 +100,35 @@
         "url": "https://www.youtube.com/watch?v=_Kr1UA9cmgY"
       }
     ]
+  },
+{
+    "category": "Network Automation",
+    "img": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+    "videos": [
+      {
+        "name": "Python Telnetlib Part 1",
+        "duration": "29:05",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=0GDkDDM6ckc&t=1332s"
+      },
+ {
+        "name": "Python Telnetlib Part 2",
+        "duration": "28:11",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=ta7jUZjX9NE&t=272s"
+      },
+ {
+        "name": "Python Telnetlib Part 3",
+        "duration": "21:10",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=SZNLKz2F7dI&t=967s"
+      },
+ {
+        "name": "Python Netmiko",
+        "duration": "14:03",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=tmp-Q0UvWac&t=446s"
+      }
+    ]
   }
 ]
