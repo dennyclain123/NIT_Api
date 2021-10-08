@@ -128,6 +128,36 @@
         "duration": "14:03",
         "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
         "url": "https://www.youtube.com/watch?v=tmp-Q0UvWac&t=446s"
+      },
+{
+        "name": "Python NAPALM",
+        "duration": "18:07",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=kxWWIxoeWiY&t=668s"
+      },
+{
+        "name": "Using NETCONF",
+        "duration": "26:52",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=6seeWM6oYFA&t=1330s"
+      },
+{
+        "name": "Using RESTCONF",
+        "duration": "19:22",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=TY7enQwQ7nc&t=2s"
+      },
+{
+        "name": "RESTAPI via Cisco IOS-XE",
+        "duration": "13:24",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=83XiaHrScQ8"
+      },
+{
+        "name": "NETCONF YANG Explorer",
+        "duration": "24:43",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=fryU1hio_NI"
       }
     ]
   }
