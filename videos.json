@@ -163,30 +163,30 @@
   },
 {
     "category": "Cisco ASA Firewall",
-    "img": "https://ourtechplanet.com/wp-content/uploads/2019/01/Introduction-to-Cisco-ASA.png",
+    "img": "https://image.flaticon.com/icons/png/512/811/811683.png",
     "videos": [
       {
         "name": "Installing Cisco ASDM",
         "duration": "15:14",
-        "image": "https://ourtechplanet.com/wp-content/uploads/2019/01/Introduction-to-Cisco-ASA.png",
+        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
         "url": "https://www.youtube.com/watch?v=oRBJrcJWcmY&t=1s"
       },
       {
         "name": "Authenticating with Active Directory",
         "duration": "37:17",
-        "image": "https://ourtechplanet.com/wp-content/uploads/2019/01/Introduction-to-Cisco-ASA.png",
+        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
         "url": "https://www.youtube.com/watch?v=vZq64lOSUvk"
       },
       {
         "name": "Adding Firewall Rules",
         "duration": "25:13",
-        "image": "https://ourtechplanet.com/wp-content/uploads/2019/01/Introduction-to-Cisco-ASA.png",
+        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
         "url": "https://www.youtube.com/watch?v=HCd5ENEreJ4"
       },
       {
         "name": "Public and Private NAT",
         "duration": "30:30",
-        "image": "https://ourtechplanet.com/wp-content/uploads/2019/01/Introduction-to-Cisco-ASA.png",
+        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
         "url": "https://www.youtube.com/watch?v=ZBgWPbTTHDw"
       }
     ]
