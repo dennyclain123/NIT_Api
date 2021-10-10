@@ -205,18 +205,18 @@
   },
 {
     "category": "Cisco AAA",
-    "img": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+    "img": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
     "videos": [
       {
         "name": "Cisco TACAUS+",
         "duration": "43:15",
-        "image": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+        "image": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
         "url": "https://www.youtube.com/watch?v=81WYf8XLZck&t=5s"
       },
       {
         "name": "RADIUS with Windows Server",
         "duration": "37:17",
-        "image": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+        "image": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
         "url": "https://www.youtube.com/watch?v=quX07J1hSHk&t=12s"
       }
     ]
