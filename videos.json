@@ -158,6 +158,12 @@
         "duration": "24:43",
         "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
         "url": "https://www.youtube.com/watch?v=fryU1hio_NI"
+      },
+{
+        "name": "Network Automation Using Ansible",
+        "duration": "36:42",
+        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "url": "https://www.youtube.com/watch?v=lpbazk9c87U"
       }
     ]
   },
@@ -188,6 +194,48 @@
         "duration": "30:30",
         "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
         "url": "https://www.youtube.com/watch?v=ZBgWPbTTHDw"
+      }
+    ]
+  },
+{
+    "category": "Cisco AAA",
+    "img": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+    "videos": [
+      {
+        "name": "Cisco TACAUS+",
+        "duration": "43:15",
+        "image": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+        "url": "https://www.youtube.com/watch?v=81WYf8XLZck&t=5s"
+      },
+      {
+        "name": "RADIUS with Windows Server",
+        "duration": "37:17",
+        "image": "https://pbs.twimg.com/media/Ee1iBF2X0AAW-l4.png",
+        "url": "https://www.youtube.com/watch?v=quX07J1hSHk&t=12s"
+      }
+    ]
+  },
+{
+    "category": "Python Socket Programming",
+    "img": "https://i.morioh.com/c3b01f9b72.png",
+    "videos": [
+      {
+        "name": "Python Socket Programming Part-1",
+        "duration": "18:38",
+        "image": "https://i.morioh.com/c3b01f9b72.png",
+        "url": "https://www.youtube.com/watch?v=VmDSHjCEXXs&t=2s"
+      },
+      {
+        "name": "Python Socket Programming Part-2",
+        "duration": "25:04",
+        "image": "https://i.morioh.com/c3b01f9b72.png",
+        "url": "https://www.youtube.com/watch?v=ATNsiYXEUBc&t=789s"
+      },
+    {
+        "name": "Python Socket Programming Part-3",
+        "duration": "16:41",
+        "image": "https://i.morioh.com/c3b01f9b72.png",
+        "url": "https://www.youtube.com/watch?v=IwTZqQA1IqI&t=3s"
       }
     ]
   }
