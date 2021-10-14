@@ -44,7 +44,7 @@
 {
         "name":"SELinux",
         "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
-        "image":"https://e-tinet.com/wp-content/uploads/2018/10/SELinux-seguranca-no-linux-1024x512.png",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SELinux_logo.svg/531px-SELinux_logo.svg.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
       },
 {
