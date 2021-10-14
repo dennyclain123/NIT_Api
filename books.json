@@ -26,7 +26,7 @@
 {
         "name":"SDWAN",
         "description": " Software Define Wide Area Network ဆိုတာကတော့ ကျနော်တို့ SDN လိုပါပဲ၊ software programming တွေ scriptတွေနဲ့ APIsတွေကို အသုံးပြုထားပြီး network ကို control လုပ်ထားတဲ့ cisco ကထုတ်လုပ်လိုက်တဲ့ feature တခုဖြစ်ပါတယ်။ သို့သော် SDN ကတော့ LAN-Switching အတွက်အသုံးပြုတာဖြစ်ပြီး SDWAN ကတော့ Wide Area Network ကြီးတစ်ခုလုံး control လုပ်ဖို့အတွက်အသုံးပြုတာဖြစ်ပါတယ်။",
-        "image":"https://1.bp.blogspot.com/-JTCZrIDb1j0/XuZNBAovdCI/AAAAAAAAAzw/XMo4Cs3Ly6kXNjYc0Jr5aB90an506VO0wCK4BGAsYHg/s320/90094918_220728242669341_8337046750107795456_n.jpg",
+        "image":"https://www.thesdwancompany.com/wp-content/uploads/2019/03/The-SD-WAN-Company-LOGO-A-Cropped.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdwan.pdf"
       },
 {
