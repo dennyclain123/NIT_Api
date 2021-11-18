@@ -35,6 +35,30 @@
       }
     ]
   },
+{
+    "category": "Windows Server",
+    "img": "https://c.vnimg.com/wp-content/uploads/2020/10/Windows-Server.png",
+    "videos": [
+      {
+        "name": "01 Windows Server Installation",
+        "duration": "30:01",
+        "image": "https://c.vnimg.com/wp-content/uploads/2020/10/Windows-Server.png",
+        "url": "https://www.youtube.com/watch?v=cvXltqvQkzI"
+      },
+ {
+        "name": "Active Directory Installation",
+        "duration": "47:50",
+        "image": "https://c.vnimg.com/wp-content/uploads/2020/10/Windows-Server.png",
+        "url": "https://www.youtube.com/watch?v=vyzVbHGnMZc"
+      },
+ {
+        "name": "DNS Server Configuration",
+        "duration": "49:09",
+        "image": "https://c.vnimg.com/wp-content/uploads/2020/10/Windows-Server.png",
+        "url": "https://www.youtube.com/watch?v=gM6Z4L0sbpM"
+      }
+    ]
+  },
   {
     "category": "Networking",
     "img": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
