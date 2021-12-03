@@ -48,13 +48,13 @@
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
       },
 {
-        "name":"Linux Boot Process",
+        "name":"Boot Process",
         "description": "Linux System ရဲ့ Boot Process အကြောင်းကိုdetail ကျကျရှင်းပြထားတာဖြစ်ပီး linux system အကြောင်းကိုအခုမှစလေ့လာသူတွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20Boot%20Process.pdf"
       },
 {
-        "name":"Linux File System",
+        "name":"File System",
         "description": "Linux File System အကြောင်းကို hierarichical diagram နဲ့ရှင်းပြထားတာဖြစ်ပြီး Linux ကိုအခုမှ စသုံးမယ့် Beginner တွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20File%20System%20Hierarchial.pdf"
