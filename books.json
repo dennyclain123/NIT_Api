@@ -44,8 +44,32 @@
 {
         "name":"SELinux",
         "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SELinux_logo.svg/531px-SELinux_logo.svg.png",
+        "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
+      },
+{
+        "name":"Linux Boot Process",
+        "description": "Linux System ရဲ့ Boot Process အကြောင်းကိုdetail ကျကျရှင်းပြထားတာဖြစ်ပီး linux system အကြောင်းကိုအခုမှစလေ့လာသူတွေအတွက်ရည်ရွယ်ပါတယ်။",
+        "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20Boot%20Process.pdf"
+      },
+{
+        "name":"Linux File System",
+        "description": "Linux File System အကြောင်းကို hierarichical diagram နဲ့ရှင်းပြထားတာဖြစ်ပြီး Linux ကိုအခုမှ စသုံးမယ့် Beginner တွေအတွက်ရည်ရွယ်ပါတယ်။",
+        "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20File%20System%20Hierarchial.pdf"
+      },
+{
+        "name":"Reading Files",
+        "description": "ကျနော်တို့ဒီနေ့မှာတော့ Linux system ရဲ့ Terminal ထဲကနေ text file, config file နဲ့ log fileအစရှိတဲ့ စာသား file တွေကိုဖတ်ရတဲ့အခါ ဘယ် command တွေနဲ့ဖတ်နိုင်လဲ၊ ဘယ် commandတွေက ဘယ်လိုအလုပ်လုပ်ပေးလဲ အစရှိသဖြင့်ပြောပြပေးသွားမှာဖြစ်ပါတယ်။",
+        "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Reading%20Files.pdf"
+      },
+{
+        "name":"User Account",
+        "description": "Linux System ထဲမှာ multi user account တွေဘယ်လို ခွဲပြီးသုံးလဲ ဘယ်လိုpermission တွေပေးရလဲဆိုတာကို ရှင်းပြပေးထားပါတယ်။",
+        "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/User%20Account.pdf"
       },
 {
         "name":"Spanning Tree Protocol",
