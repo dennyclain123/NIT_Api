@@ -1,5 +1,17 @@
 [
 {
+        "name":"Network Introduction",
+        "description": "Networking ဘာသာရပ်ကိုအခုမှစပီးလေ့လာမယ့်သူတွေအတွက် ရည်ရွယ်ပြီး ကျနော်တို့ NiT Training Centerက သင်ခန်းစာများထဲကတခုဖြစ်တဲ့ network introduction အကြောင်းကိုတင်ပေးလိုက်ပါတယ်။",
+        "image":"https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Network%20Introduction.pdf"
+      },
+{
+        "name":"Ethernet",
+        "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ Network device တွေတခုနဲ့တခုချိတ်ဆက်ရာမှာအသုံးပြုကြတဲ့ Ethernet Cable အကြောင်းကိုရှင်းပြသွားမှာဖြစ်ပါတယ်။",
+        "image":"https://cdn.pixabay.com/photo/2016/03/31/18/24/ethernet-1294340_960_720.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Ethernet.pdf"
+      },
+{
         "name":"SDN",
         "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ လက်ရှိမှာ အနောက်နိုင်ငံတွေမှာ တင်သာမက အာရှတိုက်ကတချို့ companyကြီးတွေတော်တော်များများသုံးလာကြတဲ့ Software Defined Networking (SDN)ရဲ့ အလုပ်လုပ်ပုံတွေအကြောင်း တင်ပေးချင်ပါတယ်။",
         "image":"https://www.grandmetric.com/wp-content/uploads/2017/11/SDN.png",
