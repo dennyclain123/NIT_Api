@@ -1,7 +1,7 @@
 [
   {
     "category": "Linux System",
-    "img": "https://cdn-icons-png.flaticon.com/512/518/518713.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux.png",
     "videos": [
       {
         "name": "Linux File Structure",
