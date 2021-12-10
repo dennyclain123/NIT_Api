@@ -49,133 +49,133 @@
   },
 {
     "category": "Windows Server",
-    "img": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
     "videos": [
       {
         "name": "01 Windows Server Installation",
         "duration": "30:01",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=cvXltqvQkzI"
       },
  {
         "name": "Active Directory Installation",
         "duration": "47:50",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=vyzVbHGnMZc"
       },
  {
         "name": "DNS Server Configuration",
         "duration": "49:09",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=gM6Z4L0sbpM"
       },
 {
         "name": "04 Windows Installation from Network",
         "duration": "31:07",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=PTUWyOXriKk"
       },
  {
         "name": "05 Create a Raid 5 Volume",
         "duration": "20:50",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=Nph7XKggPkY"
       },
  {
         "name": "06 NFS File Sharing",
         "duration": "35:17",
-        "image": "https://www.pngkit.com/png/full/272-2720202_windows-10-icon-png.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=f8y0EmHHXX8&t=1889s"
       }
     ]
   },
   {
     "category": "Networking",
-    "img": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
     "videos": [
       {
         "name": "What's a Network",
         "duration": "8:49",
-        "image": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=ARrS7LJC0do&t=34s"
       },
  {
         "name": "About Ethernet Part-1",
         "duration": "45:01",
-        "image": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=rhF8NNUzH8E"
       },
  {
         "name": "About Ethernet Part-2",
         "duration": "1:16:14",
-        "image": "https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=QVgX39zUyOg"
       }
     ]
   },
   {
     "category": "Cloud Hosting",
-    "img": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/hosting.png",
     "videos": [
       {
         "name": "Migrating java project using Heroku CLI",
         "duration": "7:44",
-        "image": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/hosting.png",
         "url": "https://www.youtube.com/watch?v=k2U6kRQAg8k"
       },
       {
         "name": "Migrating PHP project using heroku cli with PostgreSQL database",
         "duration": "12:48",
-        "image": "https://cdn-icons-png.flaticon.com/512/1803/1803974.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/hosting.png",
         "url": "https://www.youtube.com/watch?v=xonfnuo0zHs&t=648s"
       }
     ]
   },
 {
     "category": "Python Programming",
-    "img": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
     "videos": [
       {
         "name": "Introduction to Program and Programing",
         "duration": "7:14",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=6xIbQtKoqCs"
       },
  {
         "name": "Install Python on Windows",
         "duration": "7:05",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=cg_pykDXYDc"
       },
 {
         "name": "Introduction to python and script mode vs interactive mode",
         "duration": "13:13",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=H2YMyD7LH1s&t=432s"
       },
 {
         "name": "Python IDLE",
         "duration": "9:10",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=CVYtqOL-JIY"
       },
 {
         "name": "Interpreter vs compiler",
         "duration": "8:06",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=WrKYT0dtWxQ"
       },
 {
         "name": "Python Uses and Help Utility",
         "duration": "9:28",
-        "image": "https://www.pngall.com/wp-content/uploads/5/Python-PNG.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=bi0BzqTqg-E"
       }
     ]
   },
 {
     "category": "Amazon Web Services",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/259293_non_service_aws_specific_copy_icon.png",
     "videos": [
       {
         "name": "Introduction to Cloud Computing",
@@ -283,30 +283,30 @@
   },
 {
     "category": "Cisco ASA Firewall",
-    "img": "https://image.flaticon.com/icons/png/512/811/811683.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
     "videos": [
       {
         "name": "Installing Cisco ASDM",
         "duration": "15:14",
-        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=oRBJrcJWcmY&t=1s"
       },
       {
         "name": "Authenticating with Active Directory",
         "duration": "37:17",
-        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=vZq64lOSUvk"
       },
       {
         "name": "Adding Firewall Rules",
         "duration": "25:13",
-        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=HCd5ENEreJ4"
       },
       {
         "name": "Public and Private NAT",
         "duration": "30:30",
-        "image": "https://image.flaticon.com/icons/png/512/811/811683.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=ZBgWPbTTHDw"
       }
     ]
