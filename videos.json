@@ -217,66 +217,66 @@
   },
 {
     "category": "Network Automation",
-    "img": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
     "videos": [
       {
         "name": "Python Telnetlib Part 1",
         "duration": "29:05",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=0GDkDDM6ckc&t=1332s"
       },
  {
         "name": "Python Telnetlib Part 2",
         "duration": "28:11",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=ta7jUZjX9NE&t=272s"
       },
  {
         "name": "Python Telnetlib Part 3",
         "duration": "21:10",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=SZNLKz2F7dI&t=967s"
       },
  {
         "name": "Python Netmiko",
         "duration": "14:03",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=tmp-Q0UvWac&t=446s"
       },
 {
         "name": "Python NAPALM",
         "duration": "18:07",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=kxWWIxoeWiY&t=668s"
       },
 {
         "name": "Using NETCONF",
         "duration": "26:52",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=6seeWM6oYFA&t=1330s"
       },
 {
         "name": "Using RESTCONF",
         "duration": "19:22",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=TY7enQwQ7nc&t=2s"
       },
 {
         "name": "RESTAPI via Cisco IOS-XE",
         "duration": "13:24",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=83XiaHrScQ8"
       },
 {
         "name": "NETCONF YANG Explorer",
         "duration": "24:43",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=fryU1hio_NI"
       },
 {
         "name": "Network Automation Using Ansible",
         "duration": "36:42",
-        "image": "https://images.squarespace-cdn.com/content/v1/5df3d8c5d2be5962e4f87890/1587472600846-0GUATIW40JONZHFRF66J/napya-logo.png?format=1000w",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=lpbazk9c87U"
       }
     ]
@@ -313,42 +313,42 @@
   },
 {
     "category": "Cisco AAA",
-    "img": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cisco%20(1).png",
     "videos": [
       {
         "name": "Cisco TACAUS+",
         "duration": "43:15",
-        "image": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cisco%20(1).png",
         "url": "https://www.youtube.com/watch?v=81WYf8XLZck&t=5s"
       },
       {
         "name": "RADIUS with Windows Server",
         "duration": "37:17",
-        "image": "https://www.sonatech.ac.in/campus-connect/images/cisco.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cisco%20(1).png",
         "url": "https://www.youtube.com/watch?v=quX07J1hSHk&t=12s"
       }
     ]
   },
 {
     "category": "Python Socket Programming",
-    "img": "https://hdclipartall.com/images/python-logo-clipart-python-logo-clipart-sad-759.png",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
     "videos": [
       {
         "name": "Python Socket Programming Part-1",
         "duration": "18:38",
-        "image": "https://hdclipartall.com/images/python-logo-clipart-python-logo-clipart-sad-759.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=VmDSHjCEXXs&t=2s"
       },
       {
         "name": "Python Socket Programming Part-2",
         "duration": "25:04",
-        "image": "https://hdclipartall.com/images/python-logo-clipart-python-logo-clipart-sad-759.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=ATNsiYXEUBc&t=789s"
       },
     {
         "name": "Python Socket Programming Part-3",
         "duration": "16:41",
-        "image": "https://hdclipartall.com/images/python-logo-clipart-python-logo-clipart-sad-759.png",
+        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=IwTZqQA1IqI&t=3s"
       }
     ]
