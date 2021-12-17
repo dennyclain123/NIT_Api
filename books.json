@@ -24,6 +24,12 @@
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Windows%20Server%20Notes.pdf"
       },
 {
+        "name":"Python Programming",
+        "description": "Python Programming ကိုအခုမှစပြီးလေ့လာမယ့်သူများအတွက် ရည်ရွယ်ပါတယ်။",
+        "image":"https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Python%20Programming.pdf"
+      },
+{
         "name":"Ansible part 1,2",
         "description": "Ansible ကို 2017 မှာ develop လုပ်ခဲ့ပြီး ကျနော်တို့network enginnerများအတွက်အချိန်ကုန်လူပင်ပန်းသက်သာပြီးnetwork deviceပေါင်းများစွာကိုscript fileလေးတခုရေးလိုက်တာနဲ့တင်automaticconfigurationနဲ့reporting ပြုလုပ်လို့ရပါတယ်",
         "image":"https://www.mbejda.com/content/images/2016/01/ans.png",
