@@ -28,7 +28,7 @@
         "description": "ကျနော်တို့ Hyper-V ထဲမှာwindowsserverတင်ပြီး lab စမ်းချင်တာဖြစ်ဖြစ် ဒါမှမဟုတ် Dell serverတို့Hpserverတို့လိုhardware server ကြီးတွေဝယ်ပြီးလည်းအာ့RAT serverတွေမှာwindows server 2016ဖြစ်ဖြစ် 2012R2 ပဲဖြစ်ဖြစ်တင်လို့ရတယ်ပေါ့နော်၊အခုနောက်ဆုံးထွက်တဲ့versionကတော့windows server 2019 ဖြစ်ပြီးသူကတော့Technical Preview လောက်ပဲရှိပါသေးတယ်ဗျ၊အာ့တော့အဓိကကတော့ဗျာ၊ windows serverဘက်ကိုသွားချင်တယ်ဆိုရင်တော့ဒီအချက်လေးတွေတော့သိထားဖို့လိုပါလိမ့်မယ်။ဒါကလည်းကျနော်ဖတ်ထားမှတ်ထားသမျှsharing လုပ်ပေးတာဖြစ်ပါတယ်။",
         "image":"https://www.cybercon.com/wp-content/uploads/2019/01/winSvr.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Windows%20Server%20Notes.pdf",
-	"tag1": "System Engineering",
+	"tag1": "System",
 	"tag2": "Windows Server"
       },
 {
@@ -68,7 +68,7 @@
         "description": "အခုတခေါက် တင်ပေးသွားမယ့် post ကတော့ ကျနော်တို့ network ပိုင်းသာမက System ပိုင်း ရော development ပိုင်း ကိုပါအကြီးအကျယ် ပြောင်းလဲသွားစေတဲ့ Hypervisor နဲ့ container တွေအကြောင်းကိုတင်ပေးမှာ ဖြစ်ပါတယ်။ကျနော် ဒီတခေါက်တော့ Server ပိုင်းနဲ့ System ပိုင်းကိုပိုပြီး အလေးပေးတင်ပေးသွားမှာ ဖြစ်ပါတယ်။ ပြီးတော့ Basic က အာ့ဆိုကျနော်တို့ စလိုက်ရအောင်ဗျာ။",
         "image":"https://1.bp.blogspot.com/-c8X7frPQs3k/XuZMdz51WKI/AAAAAAAAAzY/5YQWlzIDpWULL9o-9wXExjHGN90dvbtsACK4BGAsYHg/s320/90362435_225654768843355_6750413593910444032_o.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/hypervisor%20vs%20container.pdf",
-	"tag1": "System Engineering",
+	"tag1": "System",
 	"tag2": "DevOps"
       },
 {
@@ -84,7 +84,7 @@
         "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf",
-	"tag1": "System Engineering",
+	"tag1": "System",
 	"tag2": "SELinux"
       },
 {
@@ -92,32 +92,32 @@
         "description": "Linux System ရဲ့ Boot Process အကြောင်းကိုdetail ကျကျရှင်းပြထားတာဖြစ်ပီး linux system အကြောင်းကိုအခုမှစလေ့လာသူတွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20Boot%20Process.pdf",
-	"tag1": "System Engineering",
-	"tag2": "Linux Boot Process"
+	"tag1": "System",
+	"tag2": "Boot Process"
       },
 {
         "name":"File System",
         "description": "Linux File System အကြောင်းကို hierarichical diagram နဲ့ရှင်းပြထားတာဖြစ်ပြီး Linux ကိုအခုမှ စသုံးမယ့် Beginner တွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20File%20System%20Hierarchial.pdf",
-	"tag1": "System Engineering",
-	"tag2": "Linux File System"
+	"tag1": "System",
+	"tag2": "File System"
       },
 {
         "name":"Reading Files",
         "description": "ကျနော်တို့ဒီနေ့မှာတော့ Linux system ရဲ့ Terminal ထဲကနေ text file, config file နဲ့ log fileအစရှိတဲ့ စာသား file တွေကိုဖတ်ရတဲ့အခါ ဘယ် command တွေနဲ့ဖတ်နိုင်လဲ၊ ဘယ် commandတွေက ဘယ်လိုအလုပ်လုပ်ပေးလဲ အစရှိသဖြင့်ပြောပြပေးသွားမှာဖြစ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Reading%20Files.pdf",
-	"tag1": "System Engineering",
-	"tag2": "Linux File Read"
+	"tag1": "System",
+	"tag2": "File Read"
       },
 {
         "name":"User Account",
         "description": "Linux System ထဲမှာ multi user account တွေဘယ်လို ခွဲပြီးသုံးလဲ ဘယ်လိုpermission တွေပေးရလဲဆိုတာကို ရှင်းပြပေးထားပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
         "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/User%20Account.pdf",
-	"tag1": "System Engineering",
-	"tag2": "Linux User Account"
+	"tag1": "System",
+	"tag2": "User Account"
       },
 {
         "name":"Spanning Tree Protocol",

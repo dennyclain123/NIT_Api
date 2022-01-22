@@ -6,43 +6,36 @@
       {
         "name": "Linux File Structure",
         "duration": "15:45",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=-1gylSRA0qY"
       },
       {
         "name": "Create Partition in Linux",
         "duration": "18:36",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=3Ro7SM4Z9gw"
       },
       {
         "name": "Changing Icons,Themes and others in Linux",
         "duration": "14:41",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=ntt_0GCfmkQ"
       },
       {
         "name": "Finding Linux System",
         "duration": "23:36",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=rlOMdWyuD14"
       },
  {
         "name": "Terminal Form",
         "duration": "15:12",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=84M_K091Wko&t=27s"
       },
  {
         "name": "Basic Essential Commands 1",
         "duration": "25:22",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=Ke9oX1NL7gA"
       },
  {
         "name": "Basic Essential Commands 2",
         "duration": "24:34",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/linux%20(1).png",
         "url": "https://www.youtube.com/watch?v=q_dxdHdEaAQ&t=60s"
       }
     ]
@@ -54,37 +47,31 @@
       {
         "name": "01 Windows Server Installation",
         "duration": "30:01",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=cvXltqvQkzI"
       },
  {
         "name": "Active Directory Installation",
         "duration": "47:50",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=vyzVbHGnMZc"
       },
  {
         "name": "DNS Server Configuration",
         "duration": "49:09",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=gM6Z4L0sbpM"
       },
 {
         "name": "04 Windows Installation from Network",
         "duration": "31:07",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=PTUWyOXriKk"
       },
  {
         "name": "05 Create a Raid 5 Volume",
         "duration": "20:50",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=Nph7XKggPkY"
       },
  {
         "name": "06 NFS File Sharing",
         "duration": "35:17",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/windows.png",
         "url": "https://www.youtube.com/watch?v=f8y0EmHHXX8&t=1889s"
       }
     ]
@@ -96,19 +83,16 @@
       {
         "name": "What's a Network",
         "duration": "8:49",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=ARrS7LJC0do&t=34s"
       },
  {
         "name": "About Ethernet Part-1",
         "duration": "45:01",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=rhF8NNUzH8E"
       },
  {
         "name": "About Ethernet Part-2",
         "duration": "1:16:14",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/data-transfer.png",
         "url": "https://www.youtube.com/watch?v=QVgX39zUyOg"
       }
     ]
@@ -120,13 +104,11 @@
       {
         "name": "Migrating java project using Heroku CLI",
         "duration": "7:44",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/hosting.png",
         "url": "https://www.youtube.com/watch?v=k2U6kRQAg8k"
       },
       {
         "name": "Migrating PHP project using heroku cli with PostgreSQL database",
         "duration": "12:48",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/hosting.png",
         "url": "https://www.youtube.com/watch?v=xonfnuo0zHs&t=648s"
       }
     ]
@@ -138,37 +120,31 @@
       {
         "name": "Introduction to Program and Programing",
         "duration": "7:14",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=6xIbQtKoqCs"
       },
  {
         "name": "Install Python on Windows",
         "duration": "7:05",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=cg_pykDXYDc"
       },
 {
         "name": "Introduction to python and script mode vs interactive mode",
         "duration": "13:13",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=H2YMyD7LH1s&t=432s"
       },
 {
         "name": "Python IDLE",
         "duration": "9:10",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=CVYtqOL-JIY"
       },
 {
         "name": "Interpreter vs compiler",
         "duration": "8:06",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=WrKYT0dtWxQ"
       },
 {
         "name": "Python Uses and Help Utility",
         "duration": "9:28",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
         "url": "https://www.youtube.com/watch?v=bi0BzqTqg-E"
       }
     ]
@@ -180,37 +156,31 @@
       {
         "name": "Introduction to Cloud Computing",
         "duration": "25:54",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cloud-service.png",
         "url": "https://www.youtube.com/watch?v=VbSETEz4D64&t=656s"
       },
 {
         "name": "AWS Ec2 Instance",
         "duration": "21:34",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1024px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png",
         "url": "https://www.youtube.com/watch?v=mUwq-3lBxsU&t=138s"
       },
 {
         "name": "AWS Elastic IP",
         "duration": "16:01",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/AWS_Simple_Icons_Compute_Amazon_EC2_Elastic_IP.svg/1200px-AWS_Simple_Icons_Compute_Amazon_EC2_Elastic_IP.svg.png",
         "url": "https://www.youtube.com/watch?v=u6_PHwt1nhg"
       },
 {
         "name": "AWS VPC",
         "duration": "39:08",
-        "image": "https://freesvg.org/img/1553540795.png",
         "url": "https://www.youtube.com/watch?v=w0b4Pvfyt7E&t=4s"
       },
 {
         "name": "AWS EBS",
         "duration": "21:06",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AWS_Simple_Icons_Storage_Amazon_EBS.svg/1024px-AWS_Simple_Icons_Storage_Amazon_EBS.svg.png",
         "url": "https://www.youtube.com/watch?v=4Rv4bYbf-CI"
       },
 {
         "name": "AWS ELB",
         "duration": "22:10",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AWS_Simple_Icons_Networking_Amazon_Elastic_Load_Balancer.svg/1024px-AWS_Simple_Icons_Networking_Amazon_Elastic_Load_Balancer.svg.png",
         "url": "https://www.youtube.com/watch?v=_Kr1UA9cmgY"
       }
     ]
@@ -222,61 +192,51 @@
       {
         "name": "Python Telnetlib Part 1",
         "duration": "29:05",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=0GDkDDM6ckc&t=1332s"
       },
  {
         "name": "Python Telnetlib Part 2",
         "duration": "28:11",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=ta7jUZjX9NE&t=272s"
       },
  {
         "name": "Python Telnetlib Part 3",
         "duration": "21:10",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=SZNLKz2F7dI&t=967s"
       },
  {
         "name": "Python Netmiko",
         "duration": "14:03",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=tmp-Q0UvWac&t=446s"
       },
 {
         "name": "Python NAPALM",
         "duration": "18:07",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=kxWWIxoeWiY&t=668s"
       },
 {
         "name": "Using NETCONF",
         "duration": "26:52",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=6seeWM6oYFA&t=1330s"
       },
 {
         "name": "Using RESTCONF",
         "duration": "19:22",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=TY7enQwQ7nc&t=2s"
       },
 {
         "name": "RESTAPI via Cisco IOS-XE",
         "duration": "13:24",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=83XiaHrScQ8"
       },
 {
         "name": "NETCONF YANG Explorer",
         "duration": "24:43",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=fryU1hio_NI"
       },
 {
         "name": "Network Automation Using Ansible",
         "duration": "36:42",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/big-data.png",
         "url": "https://www.youtube.com/watch?v=lpbazk9c87U"
       }
     ]
@@ -288,25 +248,21 @@
       {
         "name": "Installing Cisco ASDM",
         "duration": "15:14",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=oRBJrcJWcmY&t=1s"
       },
       {
         "name": "Authenticating with Active Directory",
         "duration": "37:17",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=vZq64lOSUvk"
       },
       {
         "name": "Adding Firewall Rules",
         "duration": "25:13",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=HCd5ENEreJ4"
       },
       {
         "name": "Public and Private NAT",
         "duration": "30:30",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/firewall.png",
         "url": "https://www.youtube.com/watch?v=ZBgWPbTTHDw"
       }
     ]
@@ -318,13 +274,11 @@
       {
         "name": "Cisco TACAUS+",
         "duration": "43:15",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cisco%20(1).png",
         "url": "https://www.youtube.com/watch?v=81WYf8XLZck&t=5s"
       },
       {
         "name": "RADIUS with Windows Server",
         "duration": "37:17",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/cisco%20(1).png",
         "url": "https://www.youtube.com/watch?v=quX07J1hSHk&t=12s"
       }
     ]
@@ -336,19 +290,16 @@
       {
         "name": "Python Socket Programming Part-1",
         "duration": "18:38",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=VmDSHjCEXXs&t=2s"
       },
       {
         "name": "Python Socket Programming Part-2",
         "duration": "25:04",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=ATNsiYXEUBc&t=789s"
       },
     {
         "name": "Python Socket Programming Part-3",
         "duration": "16:41",
-        "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
         "url": "https://www.youtube.com/watch?v=IwTZqQA1IqI&t=3s"
       }
     ]
