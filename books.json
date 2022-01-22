@@ -3,132 +3,176 @@
         "name":"Network Introduction",
         "description": "Networking ဘာသာရပ်ကိုအခုမှစပီးလေ့လာမယ့်သူတွေအတွက် ရည်ရွယ်ပြီး ကျနော်တို့ NiT Training Centerက သင်ခန်းစာများထဲကတခုဖြစ်တဲ့ network introduction အကြောင်းကိုတင်ပေးလိုက်ပါတယ်။",
         "image":"https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Devices-network-wired-icon.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Network%20Introduction.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Network%20Introduction.pdf",
+	"tag1": "Networking",
+	"tag2": "Introduction"
       },
 {
         "name":"Ethernet",
         "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ Network device တွေတခုနဲ့တခုချိတ်ဆက်ရာမှာအသုံးပြုကြတဲ့ Ethernet Cable အကြောင်းကိုရှင်းပြသွားမှာဖြစ်ပါတယ်။",
         "image":"https://cdn.pixabay.com/photo/2016/03/31/18/24/ethernet-1294340_960_720.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Ethernet.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Ethernet.pdf",
+	"tag1": "Networking",
+	"tag2": "Ethernet"
       },
 {
         "name":"SDN",
         "description": "အခုသွားမယ့်အကြောင်းအရာကတော့ လက်ရှိမှာ အနောက်နိုင်ငံတွေမှာ တင်သာမက အာရှတိုက်ကတချို့ companyကြီးတွေတော်တော်များများသုံးလာကြတဲ့ Software Defined Networking (SDN)ရဲ့ အလုပ်လုပ်ပုံတွေအကြောင်း တင်ပေးချင်ပါတယ်။",
         "image":"https://www.grandmetric.com/wp-content/uploads/2017/11/SDN.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdn.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdn.pdf",
+	"tag1": "Networking",
+	"tag2": "SDN"
       },
 {
         "name":"Windows Server",
         "description": "ကျနော်တို့ Hyper-V ထဲမှာwindowsserverတင်ပြီး lab စမ်းချင်တာဖြစ်ဖြစ် ဒါမှမဟုတ် Dell serverတို့Hpserverတို့လိုhardware server ကြီးတွေဝယ်ပြီးလည်းအာ့RAT serverတွေမှာwindows server 2016ဖြစ်ဖြစ် 2012R2 ပဲဖြစ်ဖြစ်တင်လို့ရတယ်ပေါ့နော်၊အခုနောက်ဆုံးထွက်တဲ့versionကတော့windows server 2019 ဖြစ်ပြီးသူကတော့Technical Preview လောက်ပဲရှိပါသေးတယ်ဗျ၊အာ့တော့အဓိကကတော့ဗျာ၊ windows serverဘက်ကိုသွားချင်တယ်ဆိုရင်တော့ဒီအချက်လေးတွေတော့သိထားဖို့လိုပါလိမ့်မယ်။ဒါကလည်းကျနော်ဖတ်ထားမှတ်ထားသမျှsharing လုပ်ပေးတာဖြစ်ပါတယ်။",
         "image":"https://www.cybercon.com/wp-content/uploads/2019/01/winSvr.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Windows%20Server%20Notes.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Windows%20Server%20Notes.pdf",
+	"tag1": "System Engineering",
+	"tag2": "Windows Server"
       },
 {
         "name":"Python Programming",
         "description": "Python Programming ကိုအခုမှစပြီးလေ့လာမယ့်သူများအတွက် ရည်ရွယ်ပါတယ်။",
         "image":"https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/python.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Python%20Progoramming.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Python%20Progoramming.pdf",
+	"tag1": "Programming",
+	"tag2": "Python"
       },
 {
         "name":"Ansible part 1,2",
         "description": "Ansible ကို 2017 မှာ develop လုပ်ခဲ့ပြီး ကျနော်တို့network enginnerများအတွက်အချိန်ကုန်လူပင်ပန်းသက်သာပြီးnetwork deviceပေါင်းများစွာကိုscript fileလေးတခုရေးလိုက်တာနဲ့တင်automaticconfigurationနဲ့reporting ပြုလုပ်လို့ရပါတယ်",
         "image":"https://www.mbejda.com/content/images/2016/01/ans.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%201%20and%202.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%201%20and%202.pdf",
+	"tag1": "Networking",
+	"tag2": "Automation"
       },
 {
         "name":"Ansible part 3",
         "description": "ကျနော်တို့ ansible ရဲ့ အရေးပါပုံနဲ့အသုံးပြုပုံတွေကို part-1နဲ့part-2မှာတင်ပေးခဲ့ပြီးဖြစ်ပါတယ်။ အခုpart-3မှာတော့ ansibleကိုအသုံးပြုပြီး lab configuration တစ်ခုပြုလုပ်သွားမှာဖြစ်ပါတယ်။",
         "image":"https://www.mbejda.com/content/images/2016/01/ans.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%203.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/ansible%20part%203.pdf",
+	"tag1": "Networking",
+	"tag2": "Automation"
       },
 {
         "name":"SDWAN",
         "description": " Software Define Wide Area Network ဆိုတာကတော့ ကျနော်တို့ SDN လိုပါပဲ၊ software programming တွေ scriptတွေနဲ့ APIsတွေကို အသုံးပြုထားပြီး network ကို control လုပ်ထားတဲ့ cisco ကထုတ်လုပ်လိုက်တဲ့ feature တခုဖြစ်ပါတယ်။ သို့သော် SDN ကတော့ LAN-Switching အတွက်အသုံးပြုတာဖြစ်ပြီး SDWAN ကတော့ Wide Area Network ကြီးတစ်ခုလုံး control လုပ်ဖို့အတွက်အသုံးပြုတာဖြစ်ပါတယ်။",
         "image":"https://www.thesdwancompany.com/wp-content/uploads/2019/03/The-SD-WAN-Company-LOGO-A-Cropped.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdwan.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/sdwan.pdf",
+	"tag1": "Networking",
+	"tag2": "Automation"
       },
 {
         "name":"Hypervisor vs Container",
         "description": "အခုတခေါက် တင်ပေးသွားမယ့် post ကတော့ ကျနော်တို့ network ပိုင်းသာမက System ပိုင်း ရော development ပိုင်း ကိုပါအကြီးအကျယ် ပြောင်းလဲသွားစေတဲ့ Hypervisor နဲ့ container တွေအကြောင်းကိုတင်ပေးမှာ ဖြစ်ပါတယ်။ကျနော် ဒီတခေါက်တော့ Server ပိုင်းနဲ့ System ပိုင်းကိုပိုပြီး အလေးပေးတင်ပေးသွားမှာ ဖြစ်ပါတယ်။ ပြီးတော့ Basic က အာ့ဆိုကျနော်တို့ စလိုက်ရအောင်ဗျာ။",
         "image":"https://1.bp.blogspot.com/-c8X7frPQs3k/XuZMdz51WKI/AAAAAAAAAzY/5YQWlzIDpWULL9o-9wXExjHGN90dvbtsACK4BGAsYHg/s320/90362435_225654768843355_6750413593910444032_o.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/hypervisor%20vs%20container.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/hypervisor%20vs%20container.pdf",
+	"tag1": "System Engineering",
+	"tag2": "DevOps"
       },
 {
         "name":"Internet of Things",
         "description": " IOT ကတော့ ကျနော်တို့ home automation လိုနေရာမျိုးတွေ၊ ပြီးတော့ စောစောကလို စိုက်ပျိုးရေးလုပ်ငန်းတွေအပြင် နေရာတော်တော်များများမှာ အခုလက်ရှိကြုံတွေ့နေကြ ပြသနာတွေ ကို ဖြေရှင်းပေးနိုင်မယ့် နေရာမျိုးတွေမှာ အသုံးပြုကြပါတယ်။",
         "image":"https://www.e-zigurat.com/innovation-school/wp-content/uploads/sites/5/2019/03/20190326-iot-in-five-years2-1.jpg",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/IOT.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/IOT.pdf",
+	"tag1": "Networking",
+	"tag2": "IoT"
       },
 {
         "name":"SELinux",
         "description": " SELinux ဆိုတာသည် Linux ကိုလေ့လာမည့်သူတိုင်း ကြားဖူးကြမယ်ထင်ပါတယ်။ SELinux (Security-Enhanced Linux) ဆိုတာ Security အတွက်ထပ်မံပြုလုပ်ထားတဲ့ အလွှာလေးတစ်ခုဖြစ် ပါ တယ်။ ကျွန်တော့်တို့ရဲ့ Security ကျိုးပေါက်သွားခဲ့ရင် impact ဖြစ်မယ့် Scope တွေကိုလဲသူက လျော့ချပေးပါတယ်။ SELinux ဆိုတာ Antivirus လိုလဲမဟုတ်ပါဘူး။ Password , Firewall လိုတခြား Security System တွေကိုလဲ အစားထို့ဖို့ မဟုတ်ပါဘူး။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/selinux.pdf",
+	"tag1": "System Engineering",
+	"tag2": "SELinux"
       },
 {
         "name":"Boot Process",
         "description": "Linux System ရဲ့ Boot Process အကြောင်းကိုdetail ကျကျရှင်းပြထားတာဖြစ်ပီး linux system အကြောင်းကိုအခုမှစလေ့လာသူတွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20Boot%20Process.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20Boot%20Process.pdf",
+	"tag1": "System Engineering",
+	"tag2": "Linux Boot Process"
       },
 {
         "name":"File System",
         "description": "Linux File System အကြောင်းကို hierarichical diagram နဲ့ရှင်းပြထားတာဖြစ်ပြီး Linux ကိုအခုမှ စသုံးမယ့် Beginner တွေအတွက်ရည်ရွယ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20File%20System%20Hierarchial.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Linux%20File%20System%20Hierarchial.pdf",
+	"tag1": "System Engineering",
+	"tag2": "Linux File System"
       },
 {
         "name":"Reading Files",
         "description": "ကျနော်တို့ဒီနေ့မှာတော့ Linux system ရဲ့ Terminal ထဲကနေ text file, config file နဲ့ log fileအစရှိတဲ့ စာသား file တွေကိုဖတ်ရတဲ့အခါ ဘယ် command တွေနဲ့ဖတ်နိုင်လဲ၊ ဘယ် commandတွေက ဘယ်လိုအလုပ်လုပ်ပေးလဲ အစရှိသဖြင့်ပြောပြပေးသွားမှာဖြစ်ပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Reading%20Files.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Reading%20Files.pdf",
+	"tag1": "System Engineering",
+	"tag2": "Linux File Read"
       },
 {
         "name":"User Account",
         "description": "Linux System ထဲမှာ multi user account တွေဘယ်လို ခွဲပြီးသုံးလဲ ဘယ်လိုpermission တွေပေးရလဲဆိုတာကို ရှင်းပြပေးထားပါတယ်။",
         "image":"https://cdn-icons-png.flaticon.com/512/518/518713.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/User%20Account.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/User%20Account.pdf",
+	"tag1": "System Engineering",
+	"tag2": "Linux User Account"
       },
 {
         "name":"Spanning Tree Protocol",
         "description": "Layer 2 Loop ဖြစ်တဲ့ ပြဿနာကို ဖြေရှင်းပေးတဲ့ Protocol ကို STP လို့ခေါ်တယ်။",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Spanning_tree_protocol_at_work_5.svg/300px-Spanning_tree_protocol_at_work_5.svg.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/stp.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/stp.pdf",
+	"tag1": "Networking",
+	"tag2": "STP"
       },
 {
         "name":"EtherChannel",
         "description": " Etherchannel ကို Link Aggregation ,Port Aggregation, Port Channel, NIC Teaming  လို့ခေါ်တယ်။",
         "image":"https://networklessons.com/wp-content/uploads/2014/03/etherchannel-example-topology-two-links.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/etherchannel.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/etherchannel.pdf",
+	"tag1": "Networking",
+	"tag2": "EtherChannel"
       },
 {
         "name":"Fiber Optic Cable",
         "description": " Fiber Optic Cable ကNetwork တွေမှာပုံမှန် သုံးနေကျ Copper Wire(UTP,STP,Coaxial)တို့နဲ့မတူပဲ Data ကို electric signal မဟုတ်ပဲ light ကိုအသုံးပြုပြီး Data Transmit လုပ်သောကြောင့်ဖြစ်တယ်။",
         "image":"https://www.pngkey.com/png/detail/409-4097928_fiber-png-fibre-optic-cable-png.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/fiber.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/fiber.pdf",
+	"tag1": "Networking",
+	"tag2": "Fiber"
       },
 {
         "name":"Characteristic of Network",
         "description": "ဒီနေ့ကျွန်တော် ပြောပြသွားမှာကတော့ ကျွန်တော့်မနေ့ ကပြောပြသွားတဲ့ Basic Networking Concept ရဲ့ အချက် (၆)ချက်ထဲက တစ်ချက်ဖြစ်တဲ့ Characteristic of a Network အကြောင်းကို Part (1) Part (2)ခွဲပြီးပြောပြသွားမည်ဖြစ်ပါတယ်။",
         "image":"https://www.networkstraining.com/wp-content/uploads/2018/11/types-of-networks.jpg",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Characteristic%20of%20Network.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Characteristic%20of%20Network.pdf",
+	"tag1": "Networking",
+	"tag2": "Introduction"
       },
 {
         "name":"Network Topologies",
         "description": "ဒီနေ့ကျွန်တော် ပြောပြသွားမှာကတော့ ကျွန်တော်မနေ့ ကပြောပြသွားတဲ့ Basic Networking Concept ရဲ့ အချက် (၆)ချက်ထဲက နောက်တစ်ချက် တစ်ချက်ဖြစ်တဲ့ Network Topologies တွေအကြောင်း ကို ကျွန်တော် Part 1,Part 2,Part 3 ဆိုပြီးခွဲတင်ပေးပါမယ်နော်။",
         "image":"https://systemzone.net/wp-content/uploads/2017/09/network-topology.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/topology.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/topology.pdf",
+	"tag1": "Networking",
+	"tag2": "Introduction"
       },
 {
         "name":"OSI 7 Layers",
         "description": "OSI 7 Layers ကို မတူညီသောNetwork Vendors တွေ Connections ရစေရန် ISO မှ သတ်မှတ် ပေးခဲ့ပါသည်။ OSI 7 Layers မပေါ်ပေါက်ခင်ကမတူညီသော Network Vendors တွေချိတ်ဆက်လို့ မရခဲ့ပါ။ အခု မတူညီသော OS များ၊ မတူညီသောNetwork Technology တွေ Communicationsယူလို့ရနေချင်း မှာ OSI 7 Layers ရဲ့အကျိုး ကျေးဇူးတွေကြောင့် ဖြစ်ပါတယ်။ OSI 7 Layers အကြောင်းစတင်ပြီး လေ့လာလိုက်ရအောင်ဗျာ",
         "image":"https://forum.huawei.com/enterprise/en/data/attachment/forum/201912/14/210851ln4wzcwhc7chgkba.jpg?osimodel-100743439-large.jpg",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/OSI.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/OSI.pdf",
+	"tag1": "Networking",
+	"tag2": "OSI Layer"
       },
 {
         "name":"NFV",
         "description": "အခုတခေါက်ကျနော်တို့ တင်ပေးသွားမယ့်အကြောင်းအရာကတော့ အခုလက်ရှိမှာ Telecom Company တွေအတော်များများသုံးနေကြပြီဖြစ်တဲ့ Network Function Virtualization ဆိုတဲ့ NFV အကြောင်းကိုတင်ပေးမှာဖြစ်ပါတယ်။",
         "image":"https://www.p7networks.com/wp-content/uploads/2020/02/nfv.png",
-        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/nfv.pdf"
+        "pdf": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/nfv.pdf",
+	"tag1": "Networking",
+	"tag2": "Virtualization"
       }
 ]
