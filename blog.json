@@ -5,6 +5,14 @@
     "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/Images/ccna.jpg",
     "url": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/pdfs/CCNA.pdf",
     "form": "https://forms.gle/CRmwbTvRQ7vvrVyQ6",
-    "date": "JANUARY 31, 2022"
-  }
+    "date": "January 31, 2022"
+  },
+  {
+    "name": "Cyber Security (Online Class)",
+    "description": "အခုလို cyber security အရေးပါလာတဲ့ခေတ်ကြီးမှာ သင့်အတွက် NiT Training Centerကနေ Cyber Security Onlineတန်းခွဲသစ်ကိုဖွင့်လှစ်ပေးလိုက်ပြီနော်!! ",
+    "image": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/Images/hacking.jpg",
+    "url": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/pdfs/Cyber%20Security.pdf",
+    "form": "https://forms.gle/SrVnzDeH5CU1w1mm7",
+    "date": "February 25, 2022"
+   }
 ]
