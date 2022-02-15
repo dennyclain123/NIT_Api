@@ -14,5 +14,13 @@
     "url": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/pdfs/Hacking.pdf",
     "form": "https://forms.gle/SrVnzDeH5CU1w1mm7",
     "date": "February 25, 2022"
+   },
+{
+    "name": "Graphic Design Course",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "https://gencor.in/wp-content/uploads/GenCor-Graphics-Design-Training.jpg",
+    "url": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/Courses/pdfs/blabla.pdf",
+    "form": "https://forms.gle/Sfdfgdfgdfg",
+    "date": "February 31, 2022"
    }
 ]
