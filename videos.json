@@ -37,6 +37,11 @@
         "name": "Basic Essential Commands 2",
         "duration": "24:34",
         "url": "https://www.youtube.com/watch?v=q_dxdHdEaAQ&t=60s"
+      },
+ {
+        "name": "How to install GNS3 on Linux",
+        "duration": "27:10",
+        "url": "https://www.youtube.com/watch?v=L5wQmS6Gqrk&t=26s"
       }
     ]
   },
@@ -94,7 +99,23 @@
         "name": "About Ethernet Part-2",
         "duration": "1:16:14",
         "url": "https://www.youtube.com/watch?v=QVgX39zUyOg"
+      },
+ {
+        "name": "GNS3 Installation Part 1",
+        "duration": "8:31",
+        "url": "https://www.youtube.com/watch?v=aWOG_rPnSyM"
+      },
+ {
+        "name": "GNS3 Installation Part 2",
+        "duration": "30:14",
+        "url": "https://www.youtube.com/watch?v=1UpXdhsfRs8&t=5s"
+      },
+ {
+        "name": "GNS3 Installation Part3",
+        "duration": "21:13",
+        "url": "https://www.youtube.com/watch?v=CRKVo9Buj2I"
       }
+
     ]
   },
   {
