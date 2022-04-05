@@ -324,5 +324,56 @@
         "url": "https://www.youtube.com/watch?v=IwTZqQA1IqI&t=3s"
       }
     ]
+  },
+{
+    "category": "MySQL Database Administration",
+    "img": "https://raw.githubusercontent.com/dennyclain123/NIT_Api/main/images/deep-learning.png",
+    "videos": [
+      {
+        "name": "MySQL DBA Part-1",
+        "duration": "37:42",
+        "url": "https://www.youtube.com/watch?v=RtUkCk5eWSc&t=1575s"
+      },
+      {
+        "name": "MySQL DBA Part-2",
+        "duration": "33:33",
+        "url": "https://www.youtube.com/watch?v=y1EQeLe1Usc"
+      },
+    {
+        "name": "MySQL DBA Part-3",
+        "duration": "30:32",
+        "url": "https://www.youtube.com/watch?v=nMxx9AogZBI&t=14s"
+      },
+     {
+        "name": "MySQL DBA Part-4",
+        "duration": "14:43",
+        "url": "https://www.youtube.com/watch?v=cALpeFuCAgQ&t=4s"
+      },
+      {
+        "name": "MySQL DBA Part-5",
+        "duration": "46:43",
+        "url": "https://www.youtube.com/watch?v=SFwKbaNi4sU"
+      },
+    {
+        "name": "MySQL DBA Part-6",
+        "duration": "27:45",
+        "url": "https://www.youtube.com/watch?v=p2kBcIAqcGI"
+      },
+     {
+        "name": "MySQL DBA Part-7",
+        "duration": "10:51",
+        "url": "https://www.youtube.com/watch?v=P2kOuLUHbvo&t=3s"
+      },
+      {
+        "name": "MySQL DBA Part-8",
+        "duration": "52:47",
+        "url": "https://www.youtube.com/watch?v=dBeUIgTK8rQ"
+      },
+    {
+        "name": "MySQL DBA Part-9",
+        "duration": "21:51",
+        "url": "https://www.youtube.com/watch?v=1wmis93ik-w&t=21s"
+      }
+    ]
   }
 ]
