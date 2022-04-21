@@ -42,6 +42,11 @@
         "name": "How to install GNS3 on Linux",
         "duration": "27:10",
         "url": "https://www.youtube.com/watch?v=L5wQmS6Gqrk&t=26s"
+      },
+{
+        "name": "Setup DHCP Server on RHEL 8",
+        "duration": "41:21",
+        "url": "https://www.youtube.com/watch?v=UKLRRJObny0&t=2082s"
       }
     ]
   },
